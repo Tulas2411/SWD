@@ -1,0 +1,32 @@
+[
+  {
+    "_id": { "$oid": "111111111111111111111111" },
+    "name": "Amoxicillin 500mg (Antibiotic)",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&auto=format&fit=crop",
+    "price": 45.00,
+    "isRxRequired": true,
+    "stockQuantity": 100,
+    "createdAt": { "$date": "2026-03-24T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-03-24T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "222222222222222222222222" },
+    "name": "Paracetamol 500mg",
+    "imageUrl": "https://images.unsplash.com/photo-1550572017-edb73facfa92?w=500&auto=format&fit=crop",
+    "price": 10.00,
+    "isRxRequired": false,
+    "stockQuantity": 500,
+    "createdAt": { "$date": "2026-03-24T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-03-24T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "333333333333333333333333" },
+    "name": "Vitamin C 1000mg",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&auto=format&fit=crop",
+    "price": 12.00,
+    "isRxRequired": false,
+    "stockQuantity": 0,
+    "createdAt": { "$date": "2026-03-24T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-03-24T00:00:00.000Z" }
+  }
+]

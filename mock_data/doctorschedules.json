@@ -1,0 +1,32 @@
+[
+  {
+    "_id": { "$oid": "65f0b0e5b9b2a61234567801" },
+    "doctorId": { "$oid": "65f0a0e5b9b2a61234567891" },
+    "slotDate": { "$date": "2026-03-25T00:00:00.000Z" },
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "status": "available",
+    "createdAt": { "$date": "2026-03-24T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-03-24T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "65f0b0e5b9b2a61234567802" },
+    "doctorId": { "$oid": "65f0a0e5b9b2a61234567891" },
+    "slotDate": { "$date": "2026-03-25T00:00:00.000Z" },
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "status": "available",
+    "createdAt": { "$date": "2026-03-24T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-03-24T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "65f0b0e5b9b2a61234567803" },
+    "doctorId": { "$oid": "65f0a0e5b9b2a61234567892" },
+    "slotDate": { "$date": "2026-03-26T00:00:00.000Z" },
+    "startTime": "14:00",
+    "endTime": "14:45",
+    "status": "available",
+    "createdAt": { "$date": "2026-03-24T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-03-24T00:00:00.000Z" }
+  }
+]
